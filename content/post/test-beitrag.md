@@ -14,4 +14,4 @@ Hallo
 Hallo   
 Hallo   
 
-![eisbaer](/static/icebear.jpg)
+![eisbaer](/icebear.jpg)
