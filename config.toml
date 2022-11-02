@@ -1,6 +1,6 @@
 baseURL = 'https://blog.tyrol.social/'
 languageCode = 'de-de'
-title = 'tyrol.social | Blog'
+title = 'tyrol.social | BLOG'
 theme = 'paper'
 
 [params]
